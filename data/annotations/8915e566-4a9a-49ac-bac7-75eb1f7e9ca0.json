@@ -2351,6 +2351,52 @@
       ],
       "tags": [],
       "uuid": "3664d56e-85ae-42d6-a474-c1856ecc393d"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston walks in the room and introduces herself."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f900353-08e8-4da8-a131-07ade5fb915e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hello, my name is Zora Neale Hurston."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc418ca2-f700-44bb-8e39-6e7aff19f535"
     }
   ],
   "set": "Default",
