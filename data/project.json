@@ -12,7 +12,7 @@
     "language": "en",
     "slug": "pagesite",
     "creator": "SteveMarvin",
-    "authors": "",
+    "authors": "Stephen Marvin",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -143,6 +143,6 @@
       ]
     },
     "created_at": "2024-09-05T15:08:50.088Z",
-    "updated_at": "2024-09-18T17:31:32.043Z"
+    "updated_at": "2024-10-01T14:28:55.872Z"
   }
 }
